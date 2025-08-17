@@ -20,7 +20,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <!-- Sonar.Test -->
-         <sonar.host.url>http://35.154.9.248/:9000/</sonar.host.url>
+         <sonar.host.url>http://35.154.9.248:9000/</sonar.host.url>
 	<sonar.token>squ_c73337f8342802e91a4279b277d0ea202367b1d1</sonar.token>  
              <!--
         <sonar.host.url>http://35.154.9.248/:9000/</sonar.host.url>
