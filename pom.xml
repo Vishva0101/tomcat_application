@@ -20,8 +20,12 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <!-- Sonar.Test -->
+         <sonar.host.url>http://35.154.9.248/:9000/</sonar.host.url>
+	<sonar.token>squ_c73337f8342802e91a4279b277d0ea202367b1d1</sonar.token>  
+             <!--
         <sonar.host.url>http://35.154.9.248/:9000/</sonar.host.url>
         <sonar.token>squ_b8afb86ee12e48f7b992ca8e5c9d75f35bcbe739</sonar.token>  
+             -->
         <!-- Spring -->
         <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM -->
         <!-- https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-dependencies/build.gradle -->
