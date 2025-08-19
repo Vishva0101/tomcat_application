@@ -302,12 +302,12 @@
       <repository>
         <id>nexus</id>
         <name>Nexus Release Repository</name>
-        <url>http://35.154.12.44:8081/repository/ICICI-release-repo/</url>
+        <url>http://13.127.150.159:8081/repository/ICICI-release-repo/</url>
      </repository>
      <snapshotRepository>
         <id>nexus</id>
         <name>Nexus Snapshot Repository</name>
-        <url>http://35.154.12.44:8081/repository/ICICI-Snapshot-repo/</url>
+        <url>http://13.127.150.159:8081/repository/ICICI-Snapshot-repo/</url>
      </snapshotRepository>
    </distributionManagement>
     <!-- Maven plugin versions are mentioned in order to guarantee the build reproducibility in the long term -->
